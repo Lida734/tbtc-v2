@@ -1,4 +1,4 @@
-:toc: macro
+docs/rfc/rfc-1.adoc:toc: macro
 
 = RFC 1: tBTCv2 Design
 
